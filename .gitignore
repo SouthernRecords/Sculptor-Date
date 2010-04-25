@@ -1,10 +1,12 @@
 blib*
 Makefile
 Makefile.old
+Makefile.PL
 Build
 _build*
 pm_to_blib*
 *.tar.gz
 .lwpcookies
-MPD-Sculptor-Date-*
+Sculptor-Date-*
 cover_db
+*.bak
