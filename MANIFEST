@@ -1,23 +1,11 @@
 Build.PL
 Changes
-lib/MPD/Sculptor/Date.pm
 lib/Sculptor/Date.pm
 Makefile.PL
-MANIFEST
+MANIFEST			This list of files
+MANIFEST.SKIP
 META.yml
 README
-Sculptor-Date-0.01/Changes
-Sculptor-Date-0.01/MANIFEST
-Sculptor-Date-0.01/META.yml
-Sculptor-Date-0.01/t/boilerplate.t
-Sculptor-Date-0.01/t/convert_from_future_date.t
-Sculptor-Date-0.01/t/convert_to_number.t
-Sculptor-Date-0.02/Changes
-Sculptor-Date-0.02/MANIFEST
-Sculptor-Date-0.02/META.yml
-Sculptor-Date-0.02/t/boilerplate.t
-Sculptor-Date-0.02/t/convert_from_future_date.t
-Sculptor-Date-0.02/t/convert_to_number.t
 t/00-load.t
 t/boilerplate.t
 t/convert_from_future_date.t
